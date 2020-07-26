@@ -6,3 +6,8 @@ The course's community link can be found [here](https://www.youtube.com/redirect
   -  My [assignment](https://github.com/var-greyShader/letsUpgrade-Blockchain/blob/master/day1/assignment.md) submission
   - Today's [tutorial](https://www.youtube.com/watch?v=oERwUvbcsu4) on Youtube
   - [PPT](https://bit.ly/395X6D9) for the day
+- Day 3
+  - Solidity File used on Remix IDE is [here](https://github.com/canaryGrapher/letsUpgrade-Blockchain/blob/master/day3/smartContract.sol)
+  - Screenshot of the compiled code can be found [here](https://github.com/canaryGrapher/letsUpgrade-Blockchain/blob/master/day3/remix_screenshots.png)
+  - Screenshot of blochchain visualization can be found [here](https://github.com/canaryGrapher/letsUpgrade-Blockchain/blob/master/day3/blockchain%20visualization.png)
+  - Screenshot of MD5 hash can be found [here](https://github.com/canaryGrapher/letsUpgrade-Blockchain/blob/master/day3/hash.png)
