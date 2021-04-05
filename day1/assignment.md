@@ -32,4 +32,5 @@ A block in the Blockchain usually contains the following data:
 ### Question 5
 **How is the verifiability of Blockchain attained?**  
 The verifiability of a blockchain is made possible by something called the Merkle Tree. In this method, the data are paired, and their hash is calculated, and this pairing keeps on happening until a single hash is obtained, called the Merkle Root. This single hash represents the entire hash of the chain, and when two different copies of the chain have to be compared, this Root is what is compared. Any single variation in the chain completely changes the Merkle Root; thus, it makes sure that the two copies are a match, and that one of the two is not corrupted.  
+
 ![Example of Merkle Tree](https://selfkey.org/wp-content/uploads/2019/11/A.png)
