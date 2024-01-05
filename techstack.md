@@ -1,28 +1,60 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 canaryGrapher/letsUpgrade-Blockchain is built on the following main stack:
 
-Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+
+Full tech stack [here](/techstack.md)
+
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 canaryGrapher/letsUpgrade-Blockchain is built on the following main stack:
 
+
+
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [canaryGrapher/letsUpgrade-Blockchain](https://github.com/canaryGrapher/letsUpgrade-Blockchain)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|0<br/>Tools used|11/10/23 <br/>Report generated|
+|2<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
+
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
+  <br>
+  <sub><a href="http://git-scm.com/">Git</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## Other (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png' alt='solidity'>
+  <br>
+  <sub><a href="https://ethereum.github.io/solidity/">solidity</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
