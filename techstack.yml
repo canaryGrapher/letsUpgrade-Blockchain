@@ -1,9 +1,28 @@
 repo_name: canaryGrapher/letsUpgrade-Blockchain
 report_id: 735e4b3d5ee53bf3cf92b1e41eae6bc1
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T04:47:54+00:00'
+timestamp: '2024-01-05T08:59:31+00:00'
 requested_by: canaryGrapher
 provider: github
 branch: master
-detected_tools_count: 0
-tools: []
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/canaryGrapher/letsUpgrade-Blockchain
+  detection_source: Repo Metadata
+- name: solidity
+  description: How people build software
+  website_url: https://ethereum.github.io/solidity/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source_url: https://github.com/canaryGrapher/letsUpgrade-Blockchain
+  detection_source: Repo Metadata
